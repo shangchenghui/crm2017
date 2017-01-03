@@ -6,5 +6,6 @@ public class Test01 {
 		System.out.println("Hello Java");
 		System.out.println("Hello Java02");
 		System.out.println("Hello Java02");
+		System.out.println("服务器这边  update01");
 	}
 }
